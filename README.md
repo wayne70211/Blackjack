@@ -1,5 +1,5 @@
 # Blackjack
-Blackjack Game using Reinforcement Learning <br>
+Blackjack Game using Deep Reinforcement Learning <br>
 
 # Reference
 GitHub <br>
