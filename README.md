@@ -8,7 +8,7 @@ Final Project of ML class in June 2019<br>
 - Tensorflow, Keras
 - OpenAI gym (Optional)
 
-## Reference
+# Reference
 GitHub <br>
 [blue0107] https://github.com/blue0107/DQN-blackjack-pokerbot <br>
 [openai] https://github.com/openai/gym/blob/master/gym/envs/toy_text/blackjack.py <br>
