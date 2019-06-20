@@ -2,11 +2,15 @@
 Using Deep Reinforcement Learning to Find the Best Strategy in Blackjack <br>
 Final Project of ML class in June 2019<br>
 
-## Requirement
+
+# Requirement
 - Python 3.6 or later
 - Numpy, Matplotlib, Pandas
 - Tensorflow, Keras
 - OpenAI gym (Optional)
+
+# Contact
+- r07525068@ntu.edu.tw
 
 # Reference
 GitHub <br>
